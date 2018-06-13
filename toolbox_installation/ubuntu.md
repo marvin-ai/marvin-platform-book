@@ -30,8 +30,7 @@ echo "export MARVIN_DATA_PATH=$HOME/marvin/data" >> $HOME/.bash_profile
 echo "source virtualenvwrapper.sh" >> $HOME/.bash_profile
 
 source ~/.bash_profile
-````
-
+```
 5. Clone and install python-toolbox
 
 ```
@@ -46,9 +45,13 @@ mkvirtualenv python-toolbox-env
 setvirtualenvproject
 
 make marvin
-````
+```
 
 6. Test the installation
 ```
 marvin test
 ```
+
+7. Youtube tutorial
+
+[![Python Toolbox Install](http://img.youtube.com/vi/2iljFG9EZ_Q/0.jpg)](https://www.youtube.com/watch?v=2iljFG9EZ_Q "Python Toolbox Install")
