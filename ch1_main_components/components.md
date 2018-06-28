@@ -18,7 +18,7 @@ There are separate toolboxes for each language. For example, the [Python Toolbox
 
 The Engine is the Marvin application, the result of user's implementation, including code, datasets(artifacts), models, etc. We have some [engine examples on github](https://github.com/marvin-ai/marvin-public-engines) and you could install them like described in [Running an example engine](get_started/engine_examples.md)
 
-# Engine-Executor
+# Engine Executor
 
 The [engine executor](https://github.com/marvin-ai/marvin-engine-executor) is the component responsible for coordinating execution of the steps (Actions) in a Marvin engine. The engine-executor is able to communicate with engines through the gRPC protocol.
 
