@@ -4,4 +4,4 @@
 
 # Roadmap
 
-# How to Contribute
+# How To Contribute

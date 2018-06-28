@@ -27,7 +27,7 @@
     * [Generic Rest API](ch4_documentation/generic_rest_api.md)
     * [Toolbox Common Library](ch4_documentation/toolbox_common_lib.md)
 * [Deploying Into Production](ch5_documentation/overview.md)
-    # [Deploying Into Production](ch5_documentation/deploying.md)
+    * [Deploying Into Production](ch5_documentation/deploying.md)
 * [Marvin AI Platform Architecture](ch6_documentation/overview.md)
 * [Community](ch7_documentation/overview.md)
     * [Github](ch7_documentation/community.md#Github)
