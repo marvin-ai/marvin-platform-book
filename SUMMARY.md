@@ -7,7 +7,7 @@
     * [Engine](ch1_main_components/engine.md)
     * [Engine Executor](ch1_main_components/engine_executor.md)
     * [Artefacts](ch1_main_components/artefacts.md)
-    * [Marvin Notebook Extension](ch1_main_components/components.md#marvin-notebook-extension)
+    * [Marvin Notebook Extension](ch1_main_components/notebook.md)
 * [Installing Marvin](ch2_toolbox_installation/overview.md)
 	* [Ubuntu (Debian) Installation](ch2_toolbox_installation/ubuntu.md)
 	* [MacOS Installation](ch2_toolbox_installation/mac.md)
