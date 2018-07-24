@@ -9,11 +9,6 @@ In Marvin, the DASFE pattern is represented by the image below. Each box, which 
 
 ![](https://raw.githubusercontent.com/marvin-ai/marvin-paper/master/from-exploratory-models-to-productions/fig/marvin-dase.png)
 
-# Toolbox
-
-The toolbox helps the user develop, test, and run their built engine.
-There are separate toolboxes for each language. For example, the [Python Toolbox](https://github.com/marvin-ai/marvin-python-toolbox).
-
 # Engine
 
 The Engine is the Marvin application, the result of user's implementation, including code, datasets(artifacts), models, etc. We have some [engine examples on github](https://github.com/marvin-ai/marvin-public-engines) and you could install them like described in [Running an example engine](get_started/engine_examples.md)
