@@ -9,10 +9,6 @@ In Marvin, the DASFE pattern is represented by the image below. Each box, which 
 
 ![](https://raw.githubusercontent.com/marvin-ai/marvin-paper/master/from-exploratory-models-to-productions/fig/marvin-dase.png)
 
-# Engine Executor
-
-The [engine executor](https://github.com/marvin-ai/marvin-engine-executor) is the component responsible for coordinating execution of the steps (Actions) in a Marvin engine. The engine-executor is able to communicate with engines through the gRPC protocol.
-
 # Artefacts
 
 Datasets and model(s) are shared between Engine Actions, which are persisted and versioned.
