@@ -2,7 +2,7 @@
 
 * [Overview](README.md)
 * [Main Components](ch1_main_components/overview.md)
-    * [DAFSE](ch1_main_components/components.md#dafse)
+    * [DAFSE](ch1_main_components/dasfe.md)
     * [Toolbox](ch1_main_components/components.md#toolbox)
     * [Engine](ch1_main_components/components.md#engine)
     * [Engine Executor](ch1_main_components/components.md#engine-executor)
