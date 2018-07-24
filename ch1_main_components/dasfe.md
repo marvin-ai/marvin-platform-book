@@ -9,10 +9,6 @@ In Marvin, the DASFE pattern is represented by the image below. Each box, which 
 
 ![](https://raw.githubusercontent.com/marvin-ai/marvin-paper/master/from-exploratory-models-to-productions/fig/marvin-dase.png)
 
-# Artefacts
-
-Datasets and model(s) are shared between Engine Actions, which are persisted and versioned.
-
 # Marvin Notebook Extension
 
 In order to facilitate development of the engine, Jupyter Notebook is integrated into Toolbox. The Marvin notebook extension allows the user to write their code in Notebooks and push updates directly to the Actions.
