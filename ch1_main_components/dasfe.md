@@ -2,7 +2,7 @@
 
 Here are the components
 
-# DAFSE
+# DASFE
 
 The DASFE design pattern stands for Data Acquisition, Selection, Feedback and Evaluation.
 In Marvin, the DASFE pattern is represented by the image below. Each box, which we call an Action, holds code written by the user.
