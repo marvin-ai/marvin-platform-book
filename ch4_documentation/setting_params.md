@@ -23,7 +23,6 @@ those variables.
 * [Example of *engine.params* file](https://github.com/marvin-ai/marvin-public-engines/blob/master/iris-species-engine/engine.params)
 * [Example of loading params on **Acquisitor and Cleaner**](https://github.com/marvin-ai/marvin-public-engines/blob/master/iris-species-engine/marvin_iris_species_engine/data_handler/acquisitor_and_cleaner.py)
 
-<div class="alert alert-info">
-Notice that  if you are running your actions using an API, you may alse set params at 
-the the API body. These params will overwrite the <i>engine.params</i> file.
-</div>
+**Notice that  if you are running your actions using an API, you may alse set params at 
+the the API body. These params will overwrite the <i>engine.params</i> file.**
+
