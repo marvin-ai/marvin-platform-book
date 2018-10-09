@@ -25,6 +25,7 @@
     * [Engine CLI](ch4_documentation/engine_cli.md)
     * [Generic Rest API](ch4_documentation/generic_rest_api.md)
     * [Toolbox Common Library](ch4_documentation/toolbox_common_lib.md)
+    * [Setting Environmental Params](ch4_documentation/setting_params.md)
 * [Deploying Into Production](ch5_deploying/overview.md)
     * [Deploying Into Production](ch5_deploying/deploying.md)
 * [Marvin AI Platform Architecture](ch6_platform_architecture/overview.md)
